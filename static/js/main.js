@@ -17,7 +17,7 @@ require.config({
         "angular": "bower_components/angular/angular",
         "jquery": "bower_components/jquery/dist/jquery.min",
         "bootstrap": "bower_components/bootstrap/dist/js/bootstrap.min",
-        "material": "bower_components/bootstrap-material-design/js/base"
+        "material": "bower_components/bootstrap-material-design/dist/bootstrap-material-design.iife"
     }
 });
 

@@ -1,1 +1,4 @@
-# Created by .ignore support plugin (hsz.mobi)
+.idea/
+static/js/bower_components
+node_modules/
+.gitignore
